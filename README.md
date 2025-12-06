@@ -1,3 +1,4 @@
-# CppTest
-ข้อสอบแข่งขันคอมพิวเตอร์ครั้งที่ 1 2568
-(ทำเฉลยให้รุ่นน้อง)
+# Coding Competition #1 2025
+My code from coding competition at my highschool
+this is for the juniors at my school, for study
+feel free to correct me!
